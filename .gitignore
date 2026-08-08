@@ -1,0 +1,22 @@
+# Python
+backend/.venv/
+backend/**/__pycache__/
+backend/**/*.py[cod]
+backend/.pytest_cache/
+
+# Runtime data
+backend/data/uploads/*
+backend/data/features/*
+backend/data/outputs/*
+backend/data/temp/*
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
+
+# Environment and editor
+.env
+backend/.env
+.vscode/
+.DS_Store

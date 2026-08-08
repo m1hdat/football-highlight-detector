@@ -1,0 +1,32 @@
+{
+  "repository": "https://github.com/SoccerNet/sn-spotting",
+  "commit": "9842826f94e1419580a9d17219c11aca7225f7ce",
+  "source": "https://github.com/SoccerNet/sn-spotting/tree/9842826f94e1419580a9d17219c11aca7225f7ce/Features",
+  "files": {
+    "VideoFeatureExtractor.py": {
+      "repository_path": "Features/VideoFeatureExtractor.py",
+      "size": 9033,
+      "sha256": "bd5f1b8584b381b435a3430b2bedc097bcc7c6edc44d34929876df8173c601a2"
+    },
+    "pca_512_TF2.pkl": {
+      "repository_path": "Features/pca_512_TF2.pkl",
+      "size": 4213623,
+      "sha256": "dbe1f6e1dcf3a178715656aad19e25c3d90b9f0d71857d09d99c0066421fc810"
+    },
+    "average_512_TF2.pkl": {
+      "repository_path": "Features/average_512_TF2.pkl",
+      "size": 8349,
+      "sha256": "73c4b1c9e492929552e63edc87b8dc7cecc4fe6747d9106a5e4d56bc2760556e"
+    },
+    "SOCCERNET_LICENSE": {
+      "repository_path": "LICENSE",
+      "size": 1087,
+      "sha256": "e18bbcfd26d54cf1f29f73e99e1600b551c650b34df58c8aa5281108d87165e8"
+    },
+    "SOCCERNET_FEATURES_README.md": {
+      "repository_path": "Features/README.md",
+      "size": 1203,
+      "sha256": "e5ced3249bea492177c17060bd43abff319f7e501a5c76d4fce1d01509664b6e"
+    }
+  }
+}

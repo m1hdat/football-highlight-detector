@@ -1,0 +1,9 @@
+{
+  "Goal": 0.4,
+  "ShotOnTarget": 0.08,
+  "ShotOffTarget": 0.08,
+  "Corner": 0.4,
+  "DirectFreeKick": 0.18,
+  "Penalty": 0.1,
+  "Card": 0.1
+}

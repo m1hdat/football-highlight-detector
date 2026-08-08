@@ -1,0 +1,19 @@
+name: SoccerNet-FeatureExtraction
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - pip
+  - openssl
+  - ca-certificates
+  - certifi
+  - pip:
+      - tensorflow==2.3.0
+      - numpy==1.18.5
+      - scikit-video
+      - imutils
+      - opencv-python==3.4.11.41
+      - SoccerNet==0.0.107
+      - moviepy==1.0.3
+      - scikit-learn==0.23.2
+      - tqdm

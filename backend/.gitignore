@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+data/uploads/*
+data/features/*
+data/outputs/*
+data/temp/*
+!data/uploads/.gitkeep
+!data/features/.gitkeep
+!data/outputs/.gitkeep
+!data/temp/.gitkeep
+model_artifacts/*.pt
+model_artifacts/**/*.pt
+model_artifacts/*.pkl
+model_artifacts/sample_feature.npy
+.venv/
+.env
+*.zip
+.pytest_cache/
+
+# The production spotter checkpoint is required for a fresh clone to run.
+# It is about 28 MB, below GitHub's normal single-file limit.
+!model_artifacts/spotter_v2/
+!model_artifacts/spotter_v2/best_model.pt
+!model_artifacts/spotter_v2/best_thresholds.json
